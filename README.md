@@ -1,2 +1,0 @@
-# parkcalc-project
-parkcalc-project
